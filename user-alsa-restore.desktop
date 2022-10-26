@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=alsa-restore
+Type=Application
+NoDisplay=false
+Exec=/home/user/ALSA-RESTORE.sh
+Hidden=false
+Path=/home/user/
+Terminal=false
+StartupNotify=false
